@@ -9,6 +9,7 @@
     "watch": "parcel watch",
     "build": "parcel build"
   },
+  "module": "dist/module.js",
   "author": "",
   "license": "ISC",
   "dependencies": {

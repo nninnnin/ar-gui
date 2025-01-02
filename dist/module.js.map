@@ -1,0 +1,1 @@
+{"mappings":";;;AAEA,MAAM,4BAAM,IAAI;AAEhB,QAAQ,GAAG,CAAC,sBAAsB","sources":["src/index.js"],"sourcesContent":["import * as dat from \"dat.gui\";\n\nconst gui = new dat.GUI();\n\nconsole.log(\"imported dat gui: \", gui);\n"],"names":[],"version":3,"file":"module.js.map"}
