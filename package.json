@@ -1,0 +1,17 @@
+{
+  "name": "@rebel9/ar-gui",
+  "version": "0.0.1",
+  "description": "A simple GUI for controlling AR Models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
